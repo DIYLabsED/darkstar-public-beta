@@ -10,6 +10,7 @@
 2: Open the Main folder, and follow the instructions there!
 
 
+
 ### Instructions, for nerds
 
 Darkstar is written such that a lot of the core settings and assets are easily user-modifiable. Sprites are stored as .png files, and most configs are stored as .txt files. All of these assets are stored in a single folder. This makes making your own assets, or downloading new assets easy. All you need to do is to replace a single folder.
